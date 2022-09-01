@@ -1,5 +1,26 @@
 ---
 title: "Bite_sized_workingshop"
+navbar:
+  left:
+  - text: "R Series"
+    menu:
+    - text: "Episode 1"
+      href: Eposode1.html
+    - text: "Episode 2"
+      href: Eposode2.html
+    - text: "Episode 3"
+      href: Eposode3.html
+  - text: "Now You See It!"
+    href: xxx.html
+  - text: "Introduction to QGIS"
+    href: introQGIS.html
+  right: 
+    - href: index.qmd
+      text: Home
+    - about.qmd
+    
 ---
 
 This is a Quarto website
+
+
