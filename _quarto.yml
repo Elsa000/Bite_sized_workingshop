@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Bite_sized_workingshop"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
